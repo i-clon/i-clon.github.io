@@ -3,6 +3,8 @@
 	margin-top: 15px;
 	.section {
 		margin-bottom: 60px;
+		margin:0 auto;
+		text-align: center;
 
 		@media (min-width: $break-small) {
 			margin-bottom: 80px;
